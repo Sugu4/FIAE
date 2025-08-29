@@ -47,7 +47,7 @@ Ziel ist es, grundlegende **Programmiertechniken** wie Kontrollstrukturen, Daten
 
 ---
 
-## 🎯 Lernziele / Programmiertechniken
+## Lernziele / Programmiertechniken
 - **Kontrollstrukturen**: `if-else`, `switch`
 - **OOP-Grundlagen**: Klassen, Objekte, Methoden
 - **Datenstrukturen**: Arrays, Listen, einfache Iterationen
@@ -56,6 +56,6 @@ Ziel ist es, grundlegende **Programmiertechniken** wie Kontrollstrukturen, Daten
 
 ---
 
-## 📜 Lizenz
+## Lizenz
 Dieses Projekt steht unter der **MIT-Lizenz**.  
 Siehe die Datei [LICENSE](LICENSE) für weitere Informationen.
