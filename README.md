@@ -23,26 +23,10 @@ Ziel ist es, grundlegende **Programmiertechniken** wie Kontrollstrukturen, Daten
 ---
 
 ## Installation & Ausführung
-1. Repository klonen:
+- Repository klonen:
    ```bash
    git clone https://github.com/Sugu4/FIAE.git
    cd FIAE
-   ```
-
-2. Java-Dateien kompilieren:
-   ```bash
-   javac *.java
-   ```
-
-3. Programm starten, z. B.:
-   ```bash
-   java Schaltjahr
-   ```
-   Oder entsprechend:
-   ```bash
-   java Switch
-   java BirdWatcher
-   java Datastruct
    ```
 
 ---
